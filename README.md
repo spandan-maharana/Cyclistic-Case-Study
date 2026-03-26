@@ -91,11 +91,17 @@ Power BI dashboard includes:
 	•	Ride length segmentation
 
   📁 Repository Structure
+  
   📦 Cyclistic-Analysis
+  
  ┣ 📂 BI Report
+ 
  ┣ 📂 notebook
+ 
  ┣ 📂 Power BI datasets 
+ 
  ┣ 📂 sql analysis
+ 
  ┣ 📜 README.md
 
 🚀 Outcome
