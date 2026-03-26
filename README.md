@@ -93,7 +93,6 @@ Power BI dashboard includes:
   📁 Repository Structure
   📦 Cyclistic-Analysis
  ┣ 📂 BI Report
- ┣ 📂 data
  ┣ 📂 notebook
  ┣ 📂 Power BI datasets 
  ┣ 📂 sql analysis
