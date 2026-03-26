@@ -1,0 +1,25 @@
+member_casual,month_number,month_name,ride_count
+casual,1,January  ,24740
+member,1,January  ,113042
+casual,2,February ,41178
+member,2,February ,160290
+casual,3,March    ,85862
+member,3,March    ,212268
+casual,4,April    ,109239
+member,4,April    ,262137
+casual,5,May      ,182770
+member,5,May      ,319845
+casual,6,June     ,292006
+member,6,June     ,386795
+casual,7,July     ,323352
+member,7,July     ,440106
+casual,8,August   ,337878
+member,8,August   ,452439
+casual,9,September,265268
+member,9,September,449294
+casual,10,October  ,224038
+member,10,October  ,422058
+casual,11,November ,99082
+member,11,November ,257401
+casual,12,December ,28090
+member,12,December ,112455

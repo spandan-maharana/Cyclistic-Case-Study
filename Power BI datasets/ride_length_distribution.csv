@@ -1,0 +1,11 @@
+member_casual,duration_bucket,ride_count
+casual,30-60 min,207406
+casual,60+ min,97436
+member,10-20 min,1016456
+casual,0-10 min,888064
+member,30-60 min,169257
+casual,20-30 min,237206
+casual,10-20 min,583391
+member,60+ min,23632
+member,0-10 min,2070802
+member,20-30 min,307983
