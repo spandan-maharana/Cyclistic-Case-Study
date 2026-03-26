@@ -12,6 +12,7 @@ The objective of this analysis is to identify key behavioral differences between
 ⸻
 
 🎯 Key Questions
+
 	•	How do casual riders and members differ in their usage patterns?
 	•	When do users ride (hourly, daily, seasonal trends)?
 	•	How long do they ride?
@@ -20,6 +21,7 @@ The objective of this analysis is to identify key behavioral differences between
 ⸻
 
 📊 Dataset
+
 	•	Source: Divvy Trip Data (2020–2026)
 	•	Period analyzed: March 2025 – February 2026
 	•	Data includes:
@@ -31,6 +33,7 @@ The objective of this analysis is to identify key behavioral differences between
 ⸻
 
 🛠️ Tools & Technologies
+
 	•	Python → Data cleaning & transformation
 	•	PostgreSQL → Data modeling & analysis
 	•	Power BI → Dashboard & visualization
@@ -38,6 +41,7 @@ The objective of this analysis is to identify key behavioral differences between
 ⸻
 
 🔄 Data Processing
+
 	•	Combined multiple monthly datasets (~1.1GB)
 	•	Cleaned missing and inconsistent values
 	•	Created new features:
@@ -55,15 +59,15 @@ The objective of this analysis is to identify key behavioral differences between
 	•	Members generate nearly 2x more rides → strong repeat usage
 	•	Casual riders take longer trips (~22 mins vs ~12 mins) → leisure-driven
 
-2. Time-Based Patterns
+3. Time-Based Patterns
 	•	Members peak during commute hours (8 AM, 5–6 PM)
 	•	Casual riders are more active mid-day and weekends
 
-3. Seasonal Trends
+4. Seasonal Trends
 	•	Ride demand peaks in summer months
 	•	Significant drop during winter
 
-4. Conversion Opportunity
+5. Conversion Opportunity
 
 A segment of casual riders shows member-like behavior:
 	•	Frequent weekday usage
@@ -74,6 +78,7 @@ A segment of casual riders shows member-like behavior:
 ⸻
 
 💡 Business Recommendations
+
 	•	Target casual riders with weekday + short-trip behavior
 	•	Offer commuter-focused membership plans
 	•	Run seasonal campaigns during high-demand months
@@ -84,6 +89,7 @@ A segment of casual riders shows member-like behavior:
 📊 Dashboard
 
 Power BI dashboard includes:
+
 	•	Total rides & user split
 	•	Average ride duration
 	•	Weekly & hourly usage patterns
